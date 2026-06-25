@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Placeholder for typoed email alias"
+abbrev: "Placeholder for typoed email alias"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-rosomakho-oauth-txn-challange-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -32,22 +32,22 @@ v: 3
 area: AREA
 workgroup: WG Working Group
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - Transaction
+ - Authorization
+ - Human-in-the-loop
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Web Authorization Protocol"
+  type: "Working Group"
+  mail: "oauth@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/oauth/"
+  github: "yaroslavros/placeholder"
+  latest: "https://yaroslavros.github.io/oauth-txn-challenge/draft-rosomakho-oauth-txn-challange.html"
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Yaroslav Rosomakho
+    organization: Zscaler
+    email: yrosomakho@zscaler.com
 
 normative:
 
