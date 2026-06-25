@@ -2,7 +2,7 @@
 
 
 
-WG Working Group                                            Y. Rosomakho
+Web Authorization Protocol                                  Y. Rosomakho
 Internet-Draft                                                   Zscaler
 Intended status: Informational                              25 June 2026
 Expires: 27 December 2026
@@ -13,17 +13,17 @@ Expires: 27 December 2026
 
 Abstract
 
-   TODO Abstract
+   Nothing to see here
 
 About This Document
 
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://yaroslavros.github.io/oauth-txn-challenge/draft-rosomakho-
-   oauth-txn-challange.html.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-rosomakho-oauth-
-   txn-challange/.
+   https://yaroslavros.github.io/placeholder/draft-rosomakho-oauth-txn-
+   challange.html.  Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-rosomakho-oauth-txn-
+   challange/.
 
    Discussion of this document takes place on the Web Authorization
    Protocol Working Group mailing list (mailto:oauth@ietf.org), which is
@@ -68,15 +68,15 @@ Table of Contents
 
    1.  Introduction
    2.  Conventions and Definitions
-   3.  Security Considerations
-   4.  IANA Considerations
-   5.  Normative References
+   3.  IANA Considerations
+   4.  Normative References
    Acknowledgments
    Author's Address
 
 1.  Introduction
 
-   TODO Introduction
+   There is typo in this document title.  Real draft is
+   [I-D.draft-rosomakho-oauth-txn-challenge].
 
 2.  Conventions and Definitions
 
@@ -86,15 +86,19 @@ Table of Contents
    BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
    capitals, as shown here.
 
-3.  Security Considerations
-
-   TODO Security
-
-4.  IANA Considerations
+3.  IANA Considerations
 
    This document has no IANA actions.
 
-5.  Normative References
+4.  Normative References
+
+   [I-D.draft-rosomakho-oauth-txn-challenge]
+              Rosomakho, Y., Campbell, B., McGuinness, K., and P.
+              Kasselman, "OAuth Transaction Authorization Challenge",
+              Work in Progress, Internet-Draft, draft-rosomakho-oauth-
+              txn-challenge-00, 25 June 2026,
+              <https://datatracker.ietf.org/doc/html/draft-rosomakho-
+              oauth-txn-challenge-00>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
