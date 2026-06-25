@@ -9,8 +9,8 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Security"
+workgroup: "Web Authorization Protocol"
 keyword:
  - Transaction
  - Authorization
@@ -21,7 +21,7 @@ venue:
   mail: "oauth@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/oauth/"
   github: "yaroslavros/placeholder"
-  latest: "https://yaroslavros.github.io/oauth-txn-challenge/draft-rosomakho-oauth-txn-challange.html"
+  latest: "https://yaroslavros.github.io/placeholder/draft-rosomakho-oauth-txn-challange.html"
 
 author:
  -
