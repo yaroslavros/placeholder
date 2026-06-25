@@ -37,24 +37,19 @@ informative:
 
 --- abstract
 
-TODO Abstract
+Nothing to see here
 
 
 --- middle
 
 # Introduction
 
-TODO Introduction
+There is typo in this document title. Real draft is {{!I-D.draft-rosomakho-oauth-txn-challenge}}.
 
 
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
-
-
-# Security Considerations
-
-TODO Security
 
 
 # IANA Considerations
